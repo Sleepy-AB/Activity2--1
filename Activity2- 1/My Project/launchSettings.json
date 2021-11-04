@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Activity2- 1": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
